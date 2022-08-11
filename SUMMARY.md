@@ -8,6 +8,7 @@
   * [Process Hacker](tools/process-hacker.md)
   * [Программно-аппаратные комплексы для исследований](tools/programmno-apparatnye-kompleksy-dlya-issledovanii.md)
   * [Удаление информации с дисков](tools/udalenie-informacii-s-diskov.md)
+  * [Найти исходное изображение](tools/naiti-iskhodnoe-izobrazhenie.md)
 
 ## Learning
 
