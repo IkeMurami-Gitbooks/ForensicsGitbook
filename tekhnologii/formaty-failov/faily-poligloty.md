@@ -6,4 +6,4 @@ description: Это такие файлы, которые могут быть п
 
 Подборка: [https://github.com/Polydet/polyglot-database](https://github.com/Polydet/polyglot-database)
 
-Генератор полиглотов: [https://truepolyglot.hackade.org/](https://truepolyglot.hackade.org)
+Генератор полиглотов: [https://truepolyglot.hackade.org/](https://truepolyglot.hackade.org/)

@@ -1,0 +1,7 @@
+# Pictures
+
+| Format | Papers                                                                                                                                                                                                                                                                           | Notes |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| JPEG   | Декодирование JPEG [https://habr.com/ru/post/102521/](https://habr.com/ru/post/102521/)                                                                                                                                                                                          |       |
+| GIF    | <p>GIF изнутри <a href="https://habr.com/ru/post/274917/">https://habr.com/ru/post/274917/</a><br>What's In A GIF - Bits and Bytes <a href="http://giflib.sourceforge.net/whatsinagif/bits_and_bytes.html">http://giflib.sourceforge.net/whatsinagif/bits_and_bytes.html</a></p> |       |
+| PNG    | <p>О чанках<br><a href="http://www.libpng.org/pub/png/spec/1.2/PNG-Chunks.html">http://www.libpng.org/pub/png/spec/1.2/PNG-Chunks.html</a><br><a href="http://www.libpng.org/pub/png/book/chapter08.html">http://www.libpng.org/pub/png/book/chapter08.html</a></p>              |       |
